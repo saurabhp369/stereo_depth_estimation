@@ -2,11 +2,11 @@ To run the code
 
     python3 stereo_vision.py
    
-Input Image:
+**Input Image:**
 
 <img src="https://github.com/saurabhp369/stereo_depth_estimation/blob/main/Images/im0.png" width = "500" height = "250">
 
-Disparity Map - Grayscale
+**Disparity Map**
 
 Steps to find disparity Map:
 
@@ -25,6 +25,6 @@ Steps to find disparity Map:
 <img src="https://github.com/saurabhp369/stereo_depth_estimation/blob/main/Images/curule_disparity.png" width = "500" height = "250" >
 
 
-Depth Map
+**Depth Map**
 
 <img src="https://github.com/saurabhp369/stereo_depth_estimation/blob/main/Images/curule_depthMap.png" width = "500" height = "250">
